@@ -4,7 +4,7 @@ import os,random
 from threading import Thread
 from time import sleep
 
-import vlc
+
 from termcolor import colored
 
 from config import *
